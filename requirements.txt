@@ -26,7 +26,10 @@ idna==2.8
 oauthlib==3.0.1
 pep8==1.7.1
 Pillow==8.0.1
+postgres==3.0.0
 psycopg2==2.8.6
+psycopg2-binary==2.8.6
+psycopg2-pool==1.1
 pycodestyle==2.5.0
 pycparser==2.20
 PyJWT==1.7.1
