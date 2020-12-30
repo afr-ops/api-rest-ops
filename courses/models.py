@@ -7,4 +7,4 @@ class Productos(models.Model):
 	descuento = models.CharField(max_length=10)
 
 	def __str__(self):
-		return self.nombre 
+		return self.producto 
